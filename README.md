@@ -1,0 +1,2 @@
+# deteccionobjects
+clase1
